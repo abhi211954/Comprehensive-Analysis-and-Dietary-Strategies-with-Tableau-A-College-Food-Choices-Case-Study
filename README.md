@@ -27,3 +27,4 @@
 ![unnamed (25)](https://github.com/user-attachments/assets/5618598e-15f4-4158-b375-24c1a0725854)
 
 [Comprehensive Analysis and Dietary Strategies with Tableau.docx](https://github.com/user-attachments/files/20978287/Comprehensive.Analysis.and.Dietary.Strategies.with.Tableau.docx)
+[Assignment - 1.pdf](https://github.com/user-attachments/files/21075867/Assignment.-.1.pdf)
